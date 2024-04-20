@@ -11,7 +11,7 @@ def hello_hbnb():
 
 
 @app.route('/hbnb', strict_slashes=False)
-def hbnb-func():
+def hbnb():
     """ Prints a Message when /hbnb is called """
     return 'HBNB'
 
